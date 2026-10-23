@@ -1,0 +1,19 @@
+#testimony_grid {
+    width: 100%;
+    height: 100%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 20px;
+    background-color: aqua;
+    padding: 10px; /*How do I get it so the padding here doesn't make the lower auto divs overfill?*/
+}
+#testimony_grid > div {
+    background-color: cornflowerblue;
+    padding: 40px;
+    border-radius: 20px;
+}
+.testimony > h3 {
+    background-color: bisque;
+    padding: 10px;
+    border-radius: 5px;
+}
