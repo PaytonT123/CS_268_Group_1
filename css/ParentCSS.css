@@ -12,6 +12,7 @@ body{
 
     grid-template-rows: 100px 1000px 100px;
     grid-template-columns: 1fr 4fr;
+    /*Formerly: grid-template-columns: 150px 1500px;*/
 }
 
 header {
