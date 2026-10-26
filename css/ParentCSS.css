@@ -15,11 +15,11 @@ body{
 }
 
 header {
-    background-color: pink;
+    background-color: #03366f;
     grid-area: head;
 }
 nav {
-    background-color: indianred;
+    background-color: #03366f;
     grid-area: nav;
 }
 main {
