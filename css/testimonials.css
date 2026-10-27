@@ -2,7 +2,7 @@
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-gap: 20px;
-    background-color: aqua;
+    background-color: white;
     padding: 10px; /*How do I get it so the padding here doesn't make the lower auto divs overfill?*/
     /*I removed the 100% width and height so that the padding doesn't cause overflow and the main didn't extend past the footer*/
 }
