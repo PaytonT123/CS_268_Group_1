@@ -1,0 +1,17 @@
+#aboutMe_grid {
+    width: 100%;
+    height: 100%;
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+    grid-gap: 20px;
+    background-color:aliceblue;
+    padding: 10px;
+}
+#aboutMe_grid > div {
+    background-color: goldenrod;
+    padding: 40px;
+    border-radius: 20px;
+}
+h1{
+    color:goldenrod;
+}
