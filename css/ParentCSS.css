@@ -29,4 +29,5 @@ main {
 footer {
     background-color: purple;
     grid-area: foot;
+    width: 100%;
 }
