@@ -23,7 +23,7 @@ h1 {
 }
 
 #aboutMe_grid > div {
-    background-color: #f3d58a;
+    background-color: blanchedalmond;
     border: 3px solid goldenrod;
     padding: 30px;
     border-radius: 20px;
@@ -65,7 +65,7 @@ nav a {
     display: block;
     text-align: center;
     color: #333;
-    background-color: #f3d58a;
+    background-color: blanchedalmond;
     border: 2px solid goldenrod;
     padding: 10px 18px;
     border-radius: 20px;
